@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @albertattard
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
+- 💞️ I’m looking to collaborate on any Java or Rust project
+- 📫 How to reach me albertattard@gmail.com
