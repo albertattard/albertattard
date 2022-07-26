@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @albertattard
+- ❤️ I love [Java](https://dev.java/)
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - 💞️ I’m looking to collaborate on any Java or Rust project
